@@ -1,0 +1,21 @@
+
+
+/* მოვაშოროთ trial-ის ნიშანი */
+.x-panel-header-title-default > .x-title-text-default:after {
+    content: ''
+}
+.x-panel-header-title-default-framed > .x-title-text-default-framed:after {
+    content: ''
+}
+.x-window-header-title-default > .x-title-text-default:after {
+    content: ''
+}
+
+.x-panel-header-title-navigation > .x-title-text-navigation:after {
+    content: ''
+}
+
+/* override for webkit engine textfield bug, extjs 5 */
+/*.x-form-text {
+    display: inline-block;
+}*/

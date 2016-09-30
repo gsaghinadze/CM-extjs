@@ -1,0 +1,47 @@
+.crisp-blue {
+    color: #3892D3;
+}
+
+.crisp-red {
+    color: #d33844;
+}
+
+.white-text {
+    color: #ffffff;
+}
+
+.smaller {
+    font-size: 0.8em;
+}
+
+.bigger {
+    font-weight: bold;
+}
+
+.selected-permission {
+    color: #3892D3;
+}
+
+.container-background {
+    background: url(../images/bg-pattern.png) !important;
+}
+
+/*  table class */
+.tpltable {
+    border-collapse: collapse;
+    border: 1px solid #3892D3;
+    color: #000;
+    margin-top: 5px;
+    width: 100%;
+}
+.tpltable th {
+    background-color: #3892D3;
+    color: white;
+}
+.tpltable td {
+    padding:0; margin:0;
+    text-align: center;
+    border-bottom: 2px solid #eee;
+    border-right: 1px solid #eee;
+    padding: 5px;
+}

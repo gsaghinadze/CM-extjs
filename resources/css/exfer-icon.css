@@ -1,0 +1,310 @@
+/* create icon */
+.create-icon-dark {
+    background-image: url(../images/md-icons/content/1x_web/ic_add_circle_outline_black_24dp.png);
+    background-size: 100%;
+}
+.create-icon-light {
+    background-image: url(../images/md-icons/content/1x_web/ic_add_circle_outline_white_24dp.png);
+    background-size: 100%;
+}
+
+/* edit icon */
+.edit-icon-dark {
+    background-image: url(../images/md-icons/content/1x_web/ic_create_black_24dp.png);
+    background-size: 100%;
+}
+.edit-icon-light {
+    background-image: url(../images/md-icons/content/1x_web/ic_create_white_24dp.png);
+    background-size: 100%;
+}
+
+/* delete icon */
+.delete-icon-dark {
+    background-image: url(../images/md-icons/content/1x_web/ic_remove_circle_outline_black_24dp.png);
+    background-size: 100%;
+}
+.delete-icon-light {
+    background-image: url(../images/md-icons/content/1x_web/ic_remove_circle_outline_white_24dp.png);
+    background-size: 100%;
+}
+
+/* show more icon */
+.show-more-icon-dark {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_more_horiz_black_24dp.png);
+    background-size: 100%;
+}
+.show-more-icon-light {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_more_horiz_white_24dp.png);
+    background-size: 100%;
+}
+
+/* navigate icon */
+.navigate-icon-dark {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_apps_black_24dp.png);
+    background-size: 100%;
+}
+.navigate-icon-light {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_apps_white_24dp.png);
+    background-size: 100%;
+}
+
+/* lock icon */
+.lock-icon-dark {
+    background-image: url(../images/md-icons/action/1x_web/ic_lock_outline_black_24dp.png);
+    background-size: 100%;
+}
+.lock-icon-light {
+    background-image: url(../images/md-icons/action/1x_web/ic_lock_outline_white_24dp.png);
+    background-size: 100%;
+}
+
+/* unlock icon */
+.unlock-icon-dark {
+    background-image: url(../images/md-icons/action/1x_web/ic_lock_open_black_24dp.png);
+    background-size: 100%;
+}
+.unlock-icon-light {
+    background-image: url(../images/md-icons/action/1x_web/ic_lock_open_white_24dp.png);
+    background-size: 100%;
+}
+
+/* back arrow icon */
+.back-arrow-icon-dark {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_arrow_back_black_24dp.png);
+    background-size: 100%;
+}
+.back-arrow-icon-light {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_arrow_back_white_24dp.png);
+    background-size: 100%;
+}
+
+/* forward arrow icon */
+.forward-arrow-icon-dark {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_arrow_forward_black_24dp.png);
+    background-size: 100%;
+}
+.forward-arrow-icon-light {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_arrow_forward_white_24dp.png);
+    background-size: 100%;
+}
+
+/* history icon */
+.history-icon-dark {
+    background-image: url(../images/md-icons/action/1x_web/ic_history_black_24dp.png);
+    background-size: 100%;
+}
+.history-icon-light {
+    background-image: url(../images/md-icons/action/1x_web/ic_history_white_24dp.png);
+    background-size: 100%;
+}
+
+/* search icon */
+.search-icon-dark {
+    background-image: url(../images/md-icons/action/1x_web/ic_search_black_24dp.png);
+    background-size: 100%;
+}
+.search-icon-light {
+    background-image: url(../images/md-icons/action/1x_web/ic_search_white_24dp.png);
+    background-size: 100%;
+}
+
+/* user permission icon */
+.user-permission-icon-dark {
+    background-image: url(../images/md-icons/action/1x_web/ic_verified_user_black_24dp.png);
+    background-size: 100%;
+}
+.user-permission-icon-light {
+    background-image: url(../images/md-icons/action/1x_web/ic_verified_user_white_24dp.png);
+    background-size: 100%;
+}
+
+/* check icon */
+.check-icon-dark {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_check_black_24dp.png);
+    background-size: 100%;
+}
+.check-icon-light {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_check_white_24dp.png);
+    background-size: 100%;
+}
+
+/* close icon */
+.close-icon-dark {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_close_black_24dp.png);
+    background-size: 100%;
+}
+.close-icon-light {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_close_white_24dp.png);
+    background-size: 100%;
+}
+
+/* account icon */
+.account-icon-dark {
+    background-image: url(../images/md-icons/action/1x_web/ic_account_circle_black_24dp.png);
+    background-size: 100%;
+}
+.account-icon-light {
+    background-image: url(../images/md-icons/action/1x_web/ic_account_circle_white_24dp.png);
+    background-size: 100%;
+}
+
+/* key icon */
+.key-icon-dark {
+    background-image: url(../images/md-icons/communication/1x_web/ic_vpn_key_black_24dp.png);
+    background-size: 100%;
+}
+.key-icon-light {
+    background-image: url(../images/md-icons/communication/1x_web/ic_vpn_key_white_24dp.png);
+    background-size: 100%;
+}
+
+/* logout icon */
+.logout-icon-dark {
+    background-image: url(../images/md-icons/action/1x_web/ic_exit_to_app_black_24dp.png);
+    background-size: 100%;
+}
+.logout-icon-light {
+    background-image: url(../images/md-icons/action/1x_web/ic_exit_to_app_white_24dp.png);
+    background-size: 100%;
+}
+
+/* menu icon */
+.menu-icon-dark {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_menu_black_24dp.png);
+    background-size: 100%;
+}
+.menu-icon-light {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_menu_white_24dp.png);
+    background-size: 100%;
+}
+
+/* finance icon */
+.finance-icon-dark {
+    background-image: url(../images/md-icons/action/1x_web/ic_account_balance_black_24dp.png);
+    background-size: 100%;
+}
+.finance-icon-light {
+    background-image: url(../images/md-icons/action/1x_web/ic_account_balance_white_24dp.png);
+    background-size: 100%;
+}
+
+/* warning alert icon */
+.warning-alert-icon-dark {
+    background-image: url(../images/md-icons/alert/1x_web/ic_warning_black_24dp.png);
+    background-size: 100%;
+}
+
+.warning-alert-icon-light {
+    background-image: url(../images/md-icons/alert/1x_web/ic_warning_white_24dp.png);
+    background-size: 100%;
+}
+
+/* info alert icon */
+.info-alert-icon-dark {
+    background-image: url(../images/md-icons/alert/1x_web/ic_error_black_24dp.png);
+    background-size: 100%;
+}
+
+.info-alert-icon-light {
+    background-image: url(../images/md-icons/alert/1x_web/ic_error_white_24dp.png);
+    background-size: 100%;
+}
+
+/* ceil value icon */
+.ceil-icon-dark {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_expand_less_black_24dp.png);
+    background-size: 100%;
+}
+
+.ceil-icon-light {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_expand_less_white_24dp.png);
+    background-size: 100%;
+}
+
+/* floor value icon */
+.floor-icon-dark {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_expand_more_black_24dp.png);
+    background-size: 100%;
+}
+
+.floor-icon-light {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_expand_more_white_24dp.png);
+    background-size: 100%;
+}
+
+/* round value icon */
+.round-icon-dark {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_unfold_less_black_24dp.png);
+    background-size: 100%;
+}
+
+.round-icon-light {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_unfold_less_white_24dp.png);
+    background-size: 100%;
+}
+
+/* refresh icon */
+.refresh-icon-dark {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_refresh_black_24dp.png);
+    background-size: 100%;
+}
+
+.refresh-icon-light {
+    background-image: url(../images/md-icons/navigation/1x_web/ic_refresh_white_24dp.png);
+    background-size: 100%;
+}
+
+/* print icon */
+.print-icon-dark {
+    background-image: url(../images/md-icons/action/1x_web/ic_print_black_24dp.png);
+    background-size: 100%;
+}
+
+.print-icon-light {
+    background-image: url(../images/md-icons/action/1x_web/ic_print_white_24dp.png);
+    background-size: 100%;
+}
+
+/* file download icon */
+.file-download-icon-dark {
+    background-image: url(../images/md-icons/file/1x_web/ic_file_download_black_24dp.png);
+    background-size: 100%;
+}
+
+.file-download-icon-light {
+    background-image: url(../images/md-icons/file/1x_web/ic_file_download_white_24dp.png);
+    background-size: 100%;
+}
+
+/* recycle-bin icon */
+.recycle-bin-icon-dark {
+    background-image: url(../images/md-icons/action/1x_web/ic_delete_black_24dp.png);
+    background-size: 100%;
+}
+
+.recycle-bin-icon-light {
+    background-image: url(../images/md-icons/action/1x_web/ic_delete_white_24dp.png);
+    background-size: 100%;
+}
+
+/* settings icon */
+.settings-icon-dark {
+    background-image: url(../images/md-icons/action/1x_web/ic_settings_black_24dp.png);
+    background-size: 100%;
+}
+
+.settings-icon-light {
+    background-image: url(../images/md-icons/action/1x_web/ic_settings_white_24dp.png);
+    background-size: 100%;
+}
+
+/* send icon */
+.send-icon-dark {
+    background-image: url(../images/md-icons/action/1x_web/ic_trending_flat_black_24dp.png);
+    background-size: 100%;
+}
+
+.send-icon-light {
+    background-image: url(../images/md-icons/action/1x_web/ic_trending_flat_white_24dp.png);
+    background-size: 100%;
+}

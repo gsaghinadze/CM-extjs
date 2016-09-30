@@ -1,0 +1,21 @@
+{
+  "name": "exfer",
+  "homepage": "https://github.com/Yoh0xFF/exfer-frontend",
+  "authors": [
+    "Ioram Gordadze <Yoh0xFF@gmail.com>"
+  ],
+  "description": "exfer",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dejavu-sans": "^1.0.0",
+    "dejavu-sans-condensed": "^1.0.0"
+  }
+}
