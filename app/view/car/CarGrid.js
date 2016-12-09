@@ -19,7 +19,6 @@ Ext.define('ExtJsTest.view.car.CarGrid',{
 
     listeners:{
         itemdblclick: function ( grid , record , item , index , e , eOpts ) {
-           console.log('double tapped'); 
            Ext.widget('ux-add-car-dialog', {
                 title: 'ავტომობილის დათვალიერება',
                 dataRec: record,

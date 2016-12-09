@@ -287,6 +287,13 @@
     background-size: 100%;
 }
 
+/*clear search*/
+
+.replace-black-icon-dark {
+    background-image: url(../images/md-icons/action/1x_web/ic_find_replace_black_24dp.png);
+    background-size: 100%;
+}
+
 /* settings icon */
 .settings-icon-dark {
     background-image: url(../images/md-icons/action/1x_web/ic_settings_black_24dp.png);

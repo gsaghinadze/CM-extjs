@@ -73,6 +73,17 @@ Ext.define('ExtJsTest.view.route.RouteGridController', {
         };
         viewModel.set('params', params);
         view.getStore().loadPage(1);
+    },
+
+    cleanFilters: function(){
+        var me = this;
+        var view = me.getView();
+        var viewModel = me.getViewModel();
+
+        me.lookupReference('filterRouteDesc').setValue('');
+        me.lookupReference('filterCarId').clearValue();
+        me.lookupReference('filterDate').setValue('');
+        
     }
 
     

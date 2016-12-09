@@ -6,24 +6,22 @@ Ext.define('ExtJsTest.view.driver.DriverGridController', {
         var grid = this.getView();
 
         Ext.widget('ux-add-driver-dialog', {
-            title: 'მანქანის დამატება',
+            title: 'მძღოლის დამატება',
             createNew: true
         });
         
     },
     
     editDriver: function() {
-        console.log('driverGridController editdriver function is called');
         var grid = this.getView();
         var rec = grid.getSelection()[0];
         
         if (!rec) {
             return;
         }
-        console.log(rec);
 
         Ext.widget('ux-add-driver-dialog', {
-            title: 'მომხმარებლის რედაქტირება',
+            title: 'მძღოლის რედაქტირება',
             dataRec: rec
         });
         

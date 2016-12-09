@@ -9,6 +9,10 @@ Ext.define('ExtJsTest.view.car.AddCarDialogController', {
         AppUtil.confirm('დარწმუნებული ხართ რომ გსურთ ოპერაციის დასრულება?', function(btn) {
 			if (btn === 'yes') {
 				form.submit({
+					waitMsg: {
+					   xtype:'loadmask',
+					   message:'ინფორმაცია იგზავნება...'
+					 },
 	                submitEmptyText: false,
 	                success: function() {
 	                	Ext.ComponentQuery.query('car-grid')[0].store.reload();

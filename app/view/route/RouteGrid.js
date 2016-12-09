@@ -84,23 +84,7 @@ Ext.define('ExtJsTest.view.route.RouteGrid',{
                 }
             });
         }
-        me.tbar.push({
-            xtype: 'textfield',
-            name: 'filterRouteDesc',
-            reference: 'filterRouteDesc',
-            emptyText: 'აღწერილობა',
-            enableKeyEvents: true,
-            listeners: {
-                specialkey: function(field, e){
-                    if (e.getKey() == e.ENTER) {
-                        var button = me.lookupReference('searchButton');
-                        button.fireEvent('click', button);
-                    }
-                },
-                    change: 'search'
-            }
-            }
-        );
+        
         
          me.tbar.push({
             xtype:'combo',
@@ -151,14 +135,32 @@ Ext.define('ExtJsTest.view.route.RouteGrid',{
                     change: 'search'
                 }
         });
+
+        me.tbar.push({
+            xtype: 'textfield',
+            name: 'filterRouteDesc',
+            reference: 'filterRouteDesc',
+            emptyText: 'აღწერილობა',
+            enableKeyEvents: true,
+            listeners: {
+                specialkey: function(field, e){
+                    if (e.getKey() == e.ENTER) {
+                        var button = me.lookupReference('searchButton');
+                        button.fireEvent('click', button);
+                    }
+                },
+                    change: 'search'
+            }
+            }
+        );
         
         me.tbar.push({
             xtype: 'button',
-            iconCls: 'search-icon-dark',
-            reference: 'searchButton',
-            text: 'ძებნა',
+            iconCls: 'replace-black-icon-dark',
+            reference: 'cleanButton',
+            text: 'გასუფთავება',
             listeners: {
-                click: 'search'
+                click: 'cleanFilters'
             }
         });
 

@@ -19,7 +19,6 @@ Ext.define('ExtJsTest.view.driver.DriverGrid',{
 
     listeners:{
         itemdblclick: function ( grid , record , item , index , e , eOpts ) {
-           console.log('double tapped'); 
            Ext.widget('ux-add-driver-dialog', {
                 title: 'მძღოლის დათვალიერება',
                 dataRec: record,

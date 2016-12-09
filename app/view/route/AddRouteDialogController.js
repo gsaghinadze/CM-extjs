@@ -17,12 +17,10 @@ Ext.define('ExtJsTest.view.route.AddRouteDialogController', {
 	                success: function() {
 	                	Ext.ComponentQuery.query('route-grid')[0].store.reload();
 	                	Ext.ComponentQuery.query('garage-grid')[0].store.reload();
-	                	console.log(x);
 	                	win.close();
 	                }
 	            });
 			}
 		});
-		
     }
 });

@@ -7,7 +7,7 @@ Ext.define('ExtJsTest.view.car.CarGridController', {
     	var grid = this.getView();
 
     	Ext.widget('ux-add-car-dialog', {
-            title: 'მანქანის დამატება',
+            title: 'ავტომობილის დამატება',
             createNew: true
         });
         
@@ -26,7 +26,7 @@ Ext.define('ExtJsTest.view.car.CarGridController', {
 
 
         Ext.widget('ux-add-car-dialog', {
-            title: 'მომხმარებლის რედაქტირება',
+            title: 'ავტომობილის რედაქტირება',
             dataRec: rec
         });
         
